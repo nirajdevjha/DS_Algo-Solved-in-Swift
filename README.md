@@ -1,2 +1,5 @@
 # DS_Algo-Solved-in-Swift
-Ds and Algo solved in Swift
+Problem resources
+- Leetcode
+- Grokking the coding interview
+- Algo Expert
